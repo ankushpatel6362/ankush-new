@@ -1,1 +1,3 @@
-# ankush-new
+#ankush patel 
+this is my first git repository
+auther-ankush khapra
